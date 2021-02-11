@@ -1,0 +1,17 @@
+Type Test: 1
+Adresse switches 8
+Retour switches: 1
+Etat switches: 1
+Adresse leds: 10
+Valeur leds: 1
+Etat leds: 1
+
+Type Test: 2
+Adresse switches 8
+Retour switches: 3
+Etat switches: 3
+Adresse leds: 10
+Valeur leds: 255
+Etat leds: 255
+
+
